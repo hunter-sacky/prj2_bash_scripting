@@ -9,3 +9,6 @@ I have added the backup_ex3.sh script which redirects the stderr message to a nu
 
 FOURTH COMMIT
 I added the backup_ex4.sh script which prints out details of how many files/directories will be backed up.
+ 
+FIFTH COMMIT
+I have added a script called comparison.sh which compares two strings and also two integers to see if they respectively equal each other.
