@@ -18,3 +18,6 @@ I have added scripts named backup_ex5-8 which are used to backup files. I also a
 
 SEVENTH COMMIT
 I have provided Landan my link so that he can fork my repo. 10/3/2020 13:08 CDT
+
+EIGTH COMMIT
+I received Landan's link to his repo. He provided his repo to me on 10/3/2020 16:28 CDT. His link is https://github.com/hungbuny/Project2.git
