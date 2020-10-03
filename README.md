@@ -12,3 +12,6 @@ I added the backup_ex4.sh script which prints out details of how many files/dire
  
 FIFTH COMMIT
 I have added a script called comparison.sh which compares two strings and also two integers to see if they respectively equal each other.
+
+SIXTH COMMIT
+I have added scripts named backup_ex5-8 which are used to backup files. I also added if_else.sh, until.sh, and while.sh
