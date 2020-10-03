@@ -15,3 +15,6 @@ I have added a script called comparison.sh which compares two strings and also t
 
 SIXTH COMMIT
 I have added scripts named backup_ex5-8 which are used to backup files. I also added if_else.sh, until.sh, and while.sh
+
+SEVENTH COMMIT
+I have provided Landan my link so that he can fork my repo. 10/3/2020 13:08 CDT
