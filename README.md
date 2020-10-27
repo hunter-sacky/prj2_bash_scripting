@@ -18,3 +18,14 @@ I have added scripts named backup_ex5-8 which are used to backup files. I also a
 
 SEVENTH COMMIT
 I have provided Landan my link so that he can fork my repo. 10/3/2020 13:08 CDT
+
+
+Code review - Landan
+
+Hunter's code was awesome! Not just the code but the spacing and the layout of it all made it very easy to read through and see what each block was used for.
+It was also already commented in a way that step 4a was already taken care of for me. I did not delete and reword it as I believ this would have made it more
+difficult to follow and his comments were perfect already. 
+Honestly Hunter's code was so well done and he added things I would have suggested already that it is hard for me to come up with any addiitions. The only
+thing I could think of is perhaps some sort of progress update for the percentage of how much it is done backing up a file in case you are backing up a very
+large file. Just so you know it is still running and hasn't errored out. However, I don't know how you could accomplish this as I am not well versed enough in
+the language.
